@@ -386,7 +386,25 @@ If you like or are using this project to learn or start your journey as ml engin
 
 * [Deep Learning Essentials , Mila University (edx.org)](https://courses.edx.org/courses/course-v1:UMontrealX+IVADO-DL-101+1T2020/course/)
 
+* [Deep Learning 2019 by jermy howard- Fast.ai](https://www.youtube.com/watch?v=XfoYk_Z5AkI&list=PLg-t4nYxPnPqoD1vdrBonrkarMZIz3KTx)
+
+* [Machine Learning and Deep Learning Fundamentals](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+
+* [Deep Learning Theories - Public Playlist](https://www.youtube.com/watch?v=kCj51pTQPKI&list=PLwUqqMt5en7fFLwSDa9V3JIkDam-WWgqy)
+
+* [Introduction to deep learning fall 2019 - CMU](https://www.youtube.com/watch?v=LmIjgmijyiI&list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj&index=1)
+
+* [Complete deep learning by krish naik](https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+
 * [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD (Book)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527/ref=sr_1_5?dchild=1&keywords=deep+learning&qid=1604315303&s=books&sr=1-5)
+
+* [MLcourse.ai by Yury Kashnitskiy](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
+
+* [Complete machine learning course by Krish Naik](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+
+* [Applied machine learning course 2020](https://www.youtube.com/watch?v=d79mzijMAw0&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+
+* [Machine Learning Algorithms](https://www.youtube.com/watch?v=NUXdtN1W1FE&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4)
 
 * [How to make your first Kaggle submission from scratch! (Titanic Dataset)](https://www.youtube.com/watch?v=f1y9wDDxWnA)
 
